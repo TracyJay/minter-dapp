@@ -101,7 +101,7 @@ const solanaMetadata = {
   external_url: "billiesbloomers.com",
   creators: [
     {
-      address: "0x2a5b009D5F798E8BC52963af529091c3236cFD2D",
+      address: "0x7B9b4F6AB1979A6923FAF4E8dD1F954AB555272A",
       share: 100,
     },
   ],
