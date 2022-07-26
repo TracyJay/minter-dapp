@@ -97,7 +97,7 @@ try {
 
 const solanaMetadata = {
   symbol: "YC",
-  seller_fee_basis_points: 900, // Define how much % you want from secondary market sales 1000 = 10%
+  seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
   external_url: "billiesbloomers.com",
   creators: [
     {
